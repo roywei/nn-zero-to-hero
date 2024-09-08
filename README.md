@@ -1,3 +1,16 @@
+# Modification Notice
+
+This repository is a modification of the original karpathy/makemore repository. The original readme is below.
+
+I've added titles, descriptions and explainations accordingly to the original video transcript. The goal is to make it easier to scan through the content and refresh the knowledge.
+
+To run the code in this repository, you need to install jupyter, pytorch, numpy and graphviz.
+
+```
+brew install graphviz
+pip install jupyter torch numpy graphviz matplotlib
+```
+
 
 ## Neural Networks: Zero to Hero
 
