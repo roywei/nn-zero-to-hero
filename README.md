@@ -1,16 +1,27 @@
 # Modification Notice
 
-This repository is a modification of the original karpathy/makemore repository. The original readme is below.
+This repository is a modification of the original [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) repository. 
 
-I've added titles, descriptions and explainations accordingly to the original video transcript. The goal is to make it easier to scan through the content and refresh the knowledge.
+I've added titles, descriptions and explainations accordingly to the original Youtube videos. The goal is to make it easier to scan through the content and refresh the knowledge.
 
 To run the code in this repository, you need to install jupyter, pytorch, numpy and graphviz.
 
 ```
-brew install graphviz
-pip install jupyter torch numpy graphviz matplotlib
+pip install jupyter torch numpy matplotlib
+conda install python-graphviz
 ```
+Other code references:
+- [micrograd](https://github.com/karpathy/micrograd)
+- [makemore](https://github.com/karpathy/makemore)
+- [minGPT](https://github.com/karpathy/minGPT)
+- [minBPE](https://github.com/karpathy/minGPT)
 
+Deeper dive into PyTorch internals:
+
+http://blog.ezyang.com/2019/05/pytorch-internals/
+
+
+The original readme is below:
 
 ## Neural Networks: Zero to Hero
 
